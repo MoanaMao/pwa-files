@@ -1,0 +1,21 @@
+{
+  "short_name": "我的应用",
+  "name": "我的 Framer PWA 应用",
+  "icons": [
+    {
+      "src": "https://www.dramagon.com/icon-192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "https://www.dramagon.com/icon-512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": "/",
+  "background_color": "#ffffff",
+  "theme_color": "#000000",
+  "display": "standalone",
+  "orientation": "portrait"
+}
